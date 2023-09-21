@@ -6,7 +6,7 @@ Just run PackageInstaller.bat then run Raptor.py (Obviously you have to have pyt
 If you are an user who is on a different OS just go through the code and delete all the lines that has ctypes as there is no module for window title 
 except ones for only windows, or just use replit.
 ______
-
+https://cdn.discordapp.com/attachments/1139583371836661820/1154127338733310134/image.png
 Credits 🤝
 ______
 
@@ -35,4 +35,4 @@ You cannot charge people to get this program,
 YOU CANNOT REMOVE ANY CREDITS OR IDENTIFICATION ON ANYTHING THAT WE PUT
 
 
-
+Discord For support https://discord.gg/NbcPNQTx
